@@ -1,2 +1,12 @@
 # kubernetes
 notion: https://www.notion.so/Kubernetes-d311fc339740464cb2fdb85417fc66fc
+# Spark
+notion: https://www.notion.so/f180c7f950e641ba9497b720789fc142?pvs=4
+# OS
+notion: https://www.notion.so/4abdf6ecd8a940a89c01cabb6a869c21?pvs=4
+# Network
+notion: https://www.notion.so/1d06bfe769e14e7986641b224c76fb32?pvs=4
+# Docker
+notion: https://www.notion.so/4dd56c3e44994c4cbb1ef68bd0b6b1d3?pvs=4
+# Kafka
+notion: https://www.notion.so/d969efa1a2c34600bbbbb9e3ee6b453d?pvs=4
